@@ -2,7 +2,7 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: "oswald", sans-serif;
+    font-family: 'oswald', sans-serif;
     
 }
 
@@ -16,42 +16,42 @@ nav ul{
 }
 
 nav li{
-    font-size: 1.2cm;
+    font-size: 1.2em;
     line-height: 40px;
     height: 40px;
     display: inline-block;
     margin-left: 2.5%;
 }
 
-nav a{
+nav a {
     text-decoration: none;
     color: #ffffff;
     display: block;
 }
 
-nav a:hover{
+nav a:hover {
     background-color: #ffffff;
     color: #4a4a4f;
     
 }
 
-.card{
+.card {
     float: left;
     width:20%;
     margin-left: 10%;
     
 }
 
-.card a{
+.card a {
     text-align: center;
     
 }
 
-img{
+img {
     width: 100%;
     
 }
 
-h1{
+h1 {
     text-align: center;
 }
